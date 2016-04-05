@@ -1,1 +1,1 @@
-# ng2-input-output
+# angularJS-2-start-project
